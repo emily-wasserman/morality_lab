@@ -17,5 +17,6 @@ While most of them existed before April 2017, they were kept in the lab GitHub (
 * younglab_svm.m: implements leave-one-out binary SVM classification on neural data
 * /RSA: behavioral and neural data processing scripts for Wasserman et al. (submitted) 
   * the manuscript based on this code is available [here](http://moralitylab.bc.edu/wp-content/uploads/2017/04/dis_manuscript_d2.pdf)
-
-
+* /so_localizer: self vs. other functional localizer for fMRI, based on [Jenkins & Mitchell (2011)](http://jasonmitchell.fas.harvard.edu/Papers/2011_Jenkins_SocialNeuroscience.pdf)
+  * so_localizer.m: Matlab/Psychtoolbox script to run experiment on 3T1 scanner at MIT
+  * so_localizer_stimuli.mat: 80 mental-state words (40 state, 40 state/trait) displayed during the task
